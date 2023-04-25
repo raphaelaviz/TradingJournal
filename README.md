@@ -6,6 +6,6 @@ Concepts involved: Tailwind CSS, Context API, ES6 syntax, React hooks, routes, c
 
 Libraries: React Router, React Table, Recharts and Syncfusion.
 
-# About the Project
+# How to run it
 
 To run the project on your local machine, simply run **npm install** and then **npm start**.
