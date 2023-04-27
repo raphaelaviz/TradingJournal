@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TradingJournal/static/css/main.5ee3308a.css",
+    "main.js": "/TradingJournal/static/js/main.ad2bc340.js",
+    "index.html": "/TradingJournal/index.html",
+    "main.5ee3308a.css.map": "/TradingJournal/static/css/main.5ee3308a.css.map",
+    "main.ad2bc340.js.map": "/TradingJournal/static/js/main.ad2bc340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ee3308a.css",
+    "static/js/main.ad2bc340.js"
+  ]
+}
