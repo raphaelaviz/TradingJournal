@@ -36,7 +36,7 @@ const TradeForm = ({ handleSubmit }) => {
         <input 
           type="text" 
           name="screenshot" 
-          placeholder="Screenshot" 
+          placeholder="Paste screenshot URL" 
           className="rounded-lg px-3 py-2 border-2 border-gray-300 mb-3 sm:mb-0 sm:mr-3 sm:w-1/4" 
         />
   
